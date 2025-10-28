@@ -36,7 +36,7 @@ E-BEAR는 Codabra 팀이 개발한 고성능 E-Commerce 플랫폼입니다. 안�
 
 ## ⚙️ 시스템 아키텍처
 
-![E-BEAR System Architecture](INFRA.png)
+![E-BEAR System Architecture](Infra.png)
 
 1.  **CI/CD 파이프라인 (Jenkins & GitHub)**: 
     * 개발자가 GitHub에 코드를 Push(or PR/Merge)하면, Jenkins가 Webhook을 통해 이를 감지합니다.
